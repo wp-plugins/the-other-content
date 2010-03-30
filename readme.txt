@@ -22,7 +22,7 @@ By default, WordPress gives you one editable content area per page. The Other Co
 
 == Frequently Asked Questions ==
 
-= Can I add secondary content to Posts? =
+= Can I add additional content to Posts? =
 
 Yes, just enable this option on the Settings > The Other Content page.
 
