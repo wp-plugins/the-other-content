@@ -1,4 +1,4 @@
-=== Page Lists Plus ===
+=== The Other Content ===
 Contributors: Technokinetics
 Donate link: http://www.technokinetics.com/donations/
 Tags: the_content
